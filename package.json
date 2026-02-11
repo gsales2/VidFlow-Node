@@ -1,0 +1,26 @@
+{
+  "name": "VidFlow",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/gsales2/VidFlow-Node#readme",
+  "bugs": {
+    "url": "https://github.com/gsales2/VidFlow-Node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsales2/VidFlow-Node.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.3",
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.0",
+    "globals": "^17.3.0"
+  }
+}
